@@ -7,7 +7,7 @@ int sensor2 = 14;
 //int sensor6 = 14; 
                                                  
 int trigger1 = 13;                                                        
-//int trigger2 = 32;  
+int trigger2 = 32;  
 //int trigger3 = 13;                                                        
 //int trigger4 = 32;  
 //int trigger5 = 13;                                                        
