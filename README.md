@@ -1,2 +1,2 @@
 # coilgun
-6 coil coil gun
+6 coil coil gun.
